@@ -1,0 +1,56 @@
+/* navbar starts */
+#navbar{
+    background-color: rgba(67, 67, 251, 0.844);
+    color: white;
+    padding: 5px 20px;
+}
+
+#navbar div{
+    display: inline-block;
+    width: 49%;
+}
+
+.text-right{
+    text-align: right;
+}
+
+#navbar p{
+    font-size: 20px;
+}
+#navbar span {
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+/* navbar ends */
+
+/* content starts */
+#content{
+    padding: 5px 20px;
+}
+
+body {
+    width: 70%;
+    margin: 0 auto;
+    columns: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 22px;
+}
+
+p{
+    font-size: 14px;
+}
+
+/* content ends */
+
+/* footer starts */
+#footer{
+    background-color: rgb(66, 66, 66);
+    padding: 0.5px;
+    text-align: center;
+    color: #fff;
+}
+/* footer ends */
